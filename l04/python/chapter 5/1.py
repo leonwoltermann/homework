@@ -4,7 +4,7 @@ def main():
 	months = ["January", "February", "March", "April",
 	 "May", "June", "July", "August", 
 	 "September", "October", "November", "Dezember"]
-	monthStr = months[int(monthStr)]
+	monthStr = months[int(monthStr)-1]
 	print("{0} {1}, {2}".format(monthStr, dayStr, yearStr))
 
 main()
