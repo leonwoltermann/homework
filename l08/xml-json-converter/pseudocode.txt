@@ -1,0 +1,21 @@
+for each issue:
+-date
+-articles
+	-unique id
+	-type
+	-date
+	-headers
+	-text (clean)
+
+-open issue
+-find the date of an issue
+-split into articles by "<div3"
+	-generate a unique id for each article
+	-loop through the list 
+	-extract the type of an item
+	-extract header with regular expressions
+	-splitting text on <head>
+	-clean text from xml tags
+
+
+<head>(.*)</head>
