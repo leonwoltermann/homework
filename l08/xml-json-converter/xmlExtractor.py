@@ -2,7 +2,7 @@ import re
 import os
 import json
 
-directory = "./data/"
+directory = "./xml-json-converter/data/"
 
 #iterate through all files
 files = os.listdir(directory)
@@ -47,7 +47,7 @@ for filename in filesSorted: #start from 1 because of the ds_store file
                 article = "<div3" + article
 
                 #id:
-                articleID = date + "-" + str(counter)
+                articleID = date + "-" + str(globalCounter)
 
                 #type:
                 typeRaw = re.search("<div3[^<]+>", article).group(0)
@@ -90,7 +90,7 @@ for filename in filesSorted: #start from 1 because of the ds_store file
                 #add the article dict with the articleID to the main dict
                 #dispatchDict.update({articleID: articleDict})
                 
-with open("dispatch1.json", "w") as jsonFile:
+with open("dispatch.json", "w") as jsonFile:
     json.dump(dispatchDict, jsonFile, indent=4)
 
 print("splitted elements: ", globalCounter)
