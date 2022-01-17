@@ -54,7 +54,7 @@ print(placesAll)
 fig = px.scatter_geo(placesAll, lon='lon',lat='lat',hover_name="itemUnified",animation_frame="month",size='size')
 
 fig.update_layout(
-    title_text='Growth of US cities (1790-2010)',
+    title_text='Dispatch Cities (All)',
     showlegend=True,
     geo=dict(
         scope='usa',
