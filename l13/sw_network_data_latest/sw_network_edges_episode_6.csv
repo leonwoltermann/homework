@@ -1,0 +1,55 @@
+source	target	weight	episode
+ADMIRAL ACKBAR	C-3PO	1	episode-6
+BIB FORTUNA	C-3PO	2	episode-6
+BOUSHH	C-3PO	2	episode-6
+C-3PO	CHEWBACCA	13	episode-6
+ADMIRAL ACKBAR	HAN	1	episode-6
+BOUSHH	HAN	1	episode-6
+C-3PO	HAN	18	episode-6
+CHEWBACCA	HAN	20	episode-6
+BIB FORTUNA	JABBA	1	episode-6
+BOUSHH	JABBA	1	episode-6
+C-3PO	JABBA	3	episode-6
+ANAKIN (DW)	JERJERROD	1	episode-6
+ADMIRAL ACKBAR	LANDO	5	episode-6
+C-3PO	LANDO	1	episode-6
+CHEWBACCA	LANDO	6	episode-6
+HAN	LANDO	5	episode-6
+ADMIRAL ACKBAR	LEIA	1	episode-6
+BOUSHH	LEIA	1	episode-6
+C-3PO	LEIA	15	episode-6
+CHEWBACCA	LEIA	14	episode-6
+HAN	LEIA	18	episode-6
+LANDO	LEIA	2	episode-6
+ADMIRAL ACKBAR	LUKE	1	episode-6
+ANAKIN (DW)	LUKE	1	episode-6
+ANAKIN (DW)	LUKE	5	episode-6
+BIB FORTUNA	LUKE	1	episode-6
+C-3PO	LUKE	10	episode-6
+CHEWBACCA	LUKE	10	episode-6
+HAN	LUKE	13	episode-6
+JABBA	LUKE	2	episode-6
+LANDO	LUKE	4	episode-6
+LEIA	LUKE	8	episode-6
+ADMIRAL ACKBAR	MON MOTHMA	1	episode-6
+C-3PO	MON MOTHMA	1	episode-6
+CHEWBACCA	MON MOTHMA	1	episode-6
+HAN	MON MOTHMA	1	episode-6
+LANDO	MON MOTHMA	1	episode-6
+LEIA	MON MOTHMA	1	episode-6
+LUKE	MON MOTHMA	1	episode-6
+LUKE	OBI-WAN	1	episode-6
+ANAKIN (DW)	PALPATINE (DS)	5	episode-6
+LUKE	PALPATINE (DS)	3	episode-6
+ANAKIN (DW)	PIETT	1	episode-6
+C-3PO	R2-D2	14	episode-6
+CHEWBACCA	R2-D2	8	episode-6
+HAN	R2-D2	9	episode-6
+JABBA	R2-D2	2	episode-6
+LANDO	R2-D2	2	episode-6
+LEIA	R2-D2	12	episode-6
+LUKE	R2-D2	8	episode-6
+MON MOTHMA	R2-D2	1	episode-6
+ADMIRAL ACKBAR	WEDGE	1	episode-6
+LANDO	WEDGE	6	episode-6
+LUKE	YODA	1	episode-6

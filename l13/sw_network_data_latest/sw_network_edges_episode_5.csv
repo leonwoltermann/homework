@@ -1,0 +1,56 @@
+source	target	weight	episode
+ANAKIN (DW)	BOBA FETT	3	episode-5
+ANAKIN (DW)	C-3PO	1	episode-5
+BOBA FETT	C-3PO	1	episode-5
+ANAKIN (DW)	CHEWBACCA	1	episode-5
+BOBA FETT	CHEWBACCA	1	episode-5
+C-3PO	CHEWBACCA	21	episode-5
+C-3PO	DERLIN	1	episode-5
+ANAKIN (DW)	HAN	2	episode-5
+BOBA FETT	HAN	1	episode-5
+C-3PO	HAN	27	episode-5
+CHEWBACCA	HAN	19	episode-5
+ANAKIN (DW)	LANDO	4	episode-5
+BOBA FETT	LANDO	2	episode-5
+C-3PO	LANDO	7	episode-5
+CHEWBACCA	LANDO	9	episode-5
+HAN	LANDO	7	episode-5
+ANAKIN (DW)	LEIA	1	episode-5
+BOBA FETT	LEIA	1	episode-5
+C-3PO	LEIA	23	episode-5
+CHEWBACCA	LEIA	19	episode-5
+DERLIN	LEIA	1	episode-5
+HAN	LEIA	33	episode-5
+LANDO	LEIA	10	episode-5
+ANAKIN (DW)	LUKE	2	episode-5
+C-3PO	LUKE	1	episode-5
+CHEWBACCA	LUKE	5	episode-5
+DACK	LUKE	3	episode-5
+HAN	LUKE	4	episode-5
+LANDO	LUKE	2	episode-5
+LEIA	LUKE	1	episode-5
+ANAKIN (DW)	NEEDA	1	episode-5
+HAN	OBI-WAN	1	episode-5
+LUKE	OBI-WAN	2	episode-5
+ANAKIN (DW)	OZZEL	2	episode-5
+ANAKIN (DW)	PALPATINE (DS)	1	episode-5
+ANAKIN (DW)	PIETT	7	episode-5
+BOBA FETT	PIETT	1	episode-5
+NEEDA	PIETT	1	episode-5
+OZZEL	PIETT	2	episode-5
+C-3PO	R2-D2	10	episode-5
+CHEWBACCA	R2-D2	5	episode-5
+HAN	R2-D2	4	episode-5
+LANDO	R2-D2	1	episode-5
+LEIA	R2-D2	5	episode-5
+LUKE	R2-D2	7	episode-5
+C-3PO	RIEEKAN	1	episode-5
+CHEWBACCA	RIEEKAN	1	episode-5
+HAN	RIEEKAN	3	episode-5
+LEIA	RIEEKAN	4	episode-5
+JANSON	WEDGE	2	episode-5
+LUKE	WEDGE	2	episode-5
+LUKE	YODA	5	episode-5
+OBI-WAN	YODA	1	episode-5
+HAN	ZEV	1	episode-5
+LUKE	ZEV	1	episode-5

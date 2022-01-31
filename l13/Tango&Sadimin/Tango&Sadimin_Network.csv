@@ -1,0 +1,55 @@
+source	target	weight
+dana	misbah	10
+dana	nini randa	13
+dana	salamah	4
+misbah	nini randa	18
+misbah	salamah	7
+nini randa	salamah	10
+nyonya samijan	ozog	1
+nyonya samijan	samijan	1
+ozog	samijan	2
+misbah	mono	6
+misbah	ozog	3
+misbah	sadimin	7
+misbah	samijan	1
+mono	nini randa	5
+mono	ozog	1
+mono	sadimin	10
+mono	salamah	1
+mono	samijan	1
+nini randa	ozog	2
+nini randa	sadimin	8
+nini randa	samijan	1
+ozog	sadimin	1
+ozog	salamah	1
+sadimin	salamah	2
+sadimin	samijan	1
+salamah	samijan	1
+dana	nah	14
+misbah	nah	7
+nah	nini randa	8
+dana	sadimin	2
+dana	tango	2
+misbah	tango	3
+nah	sadimin	2
+nah	salamah	2
+nah	tango	2
+nini randa	tango	5
+sadimin	tango	9
+salamah	tango	1
+mono	tango	5
+dana	karim	7
+karim	nah	6
+karim	misbah	5
+karim	nini randa	4
+dana	ozog	2
+nah	ozog	2
+dana	mono	1
+mono	nah	1
+dana	nyai	3
+karim	nyai	2
+misbah	nyai	5
+nini randa	nyai	4
+karim	ozog	1
+nah	nyai	1
+nyai	ozog	1

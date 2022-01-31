@@ -1,0 +1,61 @@
+source	target	weight	episode
+BERU	C-3PO	2	episode-4
+BIGGS	C-3PO	1	episode-4
+BIGGS	CAMIE	2	episode-4
+C-3PO	CHEWBACCA	4	episode-4
+BIGGS	GOLD LEADER	1	episode-4
+DODONNA	GOLD LEADER	1	episode-4
+C-3PO	HAN	6	episode-4
+CHEWBACCA	HAN	19	episode-4
+GREEDO	HAN	1	episode-4
+HAN	JABBA	1	episode-4
+ANAKIN (DW)	LEIA	1	episode-4
+BERU	LEIA	1	episode-4
+BIGGS	LEIA	1	episode-4
+C-3PO	LEIA	6	episode-4
+CHEWBACCA	LEIA	8	episode-4
+HAN	LEIA	13	episode-4
+BERU	LUKE	3	episode-4
+BIGGS	LUKE	4	episode-4
+C-3PO	LUKE	18	episode-4
+CAMIE	LUKE	2	episode-4
+CHEWBACCA	LUKE	14	episode-4
+DODONNA	LUKE	1	episode-4
+GOLD LEADER	LUKE	1	episode-4
+HAN	LUKE	26	episode-4
+LEIA	LUKE	17	episode-4
+ANAKIN (DW)	MOTTI	1	episode-4
+LEIA	MOTTI	1	episode-4
+ANAKIN (DW)	OBI-WAN	1	episode-4
+C-3PO	OBI-WAN	6	episode-4
+CHEWBACCA	OBI-WAN	4	episode-4
+HAN	OBI-WAN	9	episode-4
+LEIA	OBI-WAN	1	episode-4
+LUKE	OBI-WAN	19	episode-4
+BERU	OWEN	3	episode-4
+C-3PO	OWEN	2	episode-4
+LUKE	OWEN	3	episode-4
+BERU	R2-D2	1	episode-4
+BIGGS	R2-D2	1	episode-4
+C-3PO	R2-D2	17	episode-4
+CHEWBACCA	R2-D2	3	episode-4
+HAN	R2-D2	6	episode-4
+LEIA	R2-D2	5	episode-4
+LUKE	R2-D2	14	episode-4
+OBI-WAN	R2-D2	4	episode-4
+OWEN	R2-D2	1	episode-4
+BIGGS	RED LEADER	3	episode-4
+C-3PO	RED LEADER	1	episode-4
+GOLD LEADER	RED LEADER	1	episode-4
+LEIA	RED LEADER	1	episode-4
+LUKE	RED LEADER	3	episode-4
+LUKE	RED TEN	1	episode-4
+RED LEADER	RED TEN	1	episode-4
+ANAKIN (DW)	TARKIN	7	episode-4
+LEIA	TARKIN	1	episode-4
+MOTTI	TARKIN	2	episode-4
+BIGGS	WEDGE	2	episode-4
+DODONNA	WEDGE	1	episode-4
+GOLD LEADER	WEDGE	1	episode-4
+LUKE	WEDGE	2	episode-4
+RED LEADER	WEDGE	3	episode-4

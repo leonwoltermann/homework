@@ -1,0 +1,47 @@
+	connection	weight
+0	('dana', 'nini randa')	21
+1	('dana', 'salamah')	2
+2	('nini randa', 'salamah')	21
+3	('ozog', 'samijan')	2
+4	('nyonya samijan', 'samijan')	3
+5	('misbah', 'nini randa')	25
+6	('misbah', 'salamah')	3
+7	('misbah', 'mono')	11
+8	('misbah', 'ozog')	1
+9	('misbah', 'samijan')	1
+10	('mono', 'nini randa')	10
+11	('mono', 'ozog')	1
+12	('mono', 'salamah')	2
+13	('mono', 'samijan')	1
+14	('nini randa', 'ozog')	1
+15	('nini randa', 'samijan')	1
+16	('ozog', 'salamah')	1
+17	('salamah', 'samijan')	1
+18	('mono', 'sadimin')	28
+19	('nini randa', 'sadimin')	10
+20	('dana', 'nah')	44
+21	('nah', 'nini randa')	15
+22	('nini randa', 'tango')	6
+23	('sadimin', 'tango')	17
+24	('dana', 'tango')	3
+25	('misbah', 'sadimin')	17
+26	('mono', 'tango')	13
+27	('misbah', 'tango')	1
+28	('karim', 'nah')	5
+29	('dana', 'karim')	16
+30	('dana', 'misbah')	9
+31	('karim', 'misbah')	4
+32	('misbah', 'nah')	3
+33	('dana', 'ozog')	4
+34	('dana', 'mono')	1
+35	('nah', 'tango')	1
+36	('dana', 'sadimin')	1
+37	('dana', 'nyai')	5
+38	('karim', 'nyai')	3
+39	('misbah', 'nyai')	17
+40	('karim', 'nini randa')	1
+41	('karim', 'ozog')	2
+42	('nah', 'nyai')	4
+43	('nah', 'ozog')	2
+44	('nyai', 'ozog')	2
+45	('nini randa', 'nyai')	5

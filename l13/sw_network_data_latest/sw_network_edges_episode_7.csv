@@ -1,0 +1,93 @@
+source	target	weight	episode
+ADMIRAL ACKBAR	ADMIRAL STATURA	1	episode-7
+BALA-TIK	BB-8	1	episode-7
+ADMIRAL ACKBAR	C-3PO	1	episode-7
+ADMIRAL STATURA	C-3PO	2	episode-7
+BB-8	C-3PO	5	episode-7
+BALA-TIK	CHEWBACCA	1	episode-7
+BB-8	CHEWBACCA	9	episode-7
+C-3PO	CHEWBACCA	2	episode-7
+CAPTAIN PHASMA	CHEWBACCA	1	episode-7
+ADMIRAL ACKBAR	FINN	1	episode-7
+ADMIRAL STATURA	FINN	1	episode-7
+BALA-TIK	FINN	1	episode-7
+BB-8	FINN	15	episode-7
+C-3PO	FINN	1	episode-7
+CAPTAIN PHASMA	FINN	3	episode-7
+CHEWBACCA	FINN	20	episode-7
+CAPTAIN PHASMA	GENERAL HUX	1	episode-7
+COLONEL DATOO	GENERAL HUX	1	episode-7
+ADMIRAL ACKBAR	HAN	1	episode-7
+ADMIRAL STATURA	HAN	1	episode-7
+BALA-TIK	HAN	2	episode-7
+BB-8	HAN	10	episode-7
+C-3PO	HAN	3	episode-7
+CAPTAIN PHASMA	HAN	2	episode-7
+CHEWBACCA	HAN	24	episode-7
+FINN	HAN	23	episode-7
+ELLO ASTY	JESS	2	episode-7
+CAPTAIN PHASMA	KYLO REN	1	episode-7
+CHEWBACCA	KYLO REN	3	episode-7
+FINN	KYLO REN	2	episode-7
+GENERAL HUX	KYLO REN	5	episode-7
+HAN	KYLO REN	3	episode-7
+ADMIRAL ACKBAR	LEIA	1	episode-7
+ADMIRAL STATURA	LEIA	2	episode-7
+BB-8	LEIA	3	episode-7
+C-3PO	LEIA	5	episode-7
+CHEWBACCA	LEIA	3	episode-7
+FINN	LEIA	3	episode-7
+HAN	LEIA	5	episode-7
+GENERAL HUX	LIEUTENANT MITAKA	1	episode-7
+KYLO REN	LIEUTENANT MITAKA	2	episode-7
+BB-8	LOR SAN TEKKA	2	episode-7
+CAPTAIN PHASMA	LOR SAN TEKKA	1	episode-7
+KYLO REN	LOR SAN TEKKA	1	episode-7
+BB-8	MAZ	3	episode-7
+CHEWBACCA	MAZ	2	episode-7
+FINN	MAZ	2	episode-7
+HAN	MAZ	4	episode-7
+ELLO ASTY	NIV LEK	2	episode-7
+JESS	NIV LEK	2	episode-7
+ADMIRAL ACKBAR	POE	1	episode-7
+ADMIRAL STATURA	POE	1	episode-7
+BB-8	POE	8	episode-7
+C-3PO	POE	2	episode-7
+CAPTAIN PHASMA	POE	1	episode-7
+CHEWBACCA	POE	2	episode-7
+ELLO ASTY	POE	3	episode-7
+FINN	POE	11	episode-7
+HAN	POE	2	episode-7
+JESS	POE	2	episode-7
+KYLO REN	POE	2	episode-7
+LEIA	POE	3	episode-7
+LOR SAN TEKKA	POE	3	episode-7
+NIV LEK	POE	2	episode-7
+BB-8	R2-D2	2	episode-7
+C-3PO	R2-D2	2	episode-7
+CHEWBACCA	R2-D2	1	episode-7
+BALA-TIK	REY	1	episode-7
+BB-8	REY	17	episode-7
+CHEWBACCA	REY	13	episode-7
+FINN	REY	29	episode-7
+HAN	REY	17	episode-7
+KYLO REN	REY	4	episode-7
+LEIA	REY	1	episode-7
+LUKE	REY	1	episode-7
+MAZ	REY	2	episode-7
+ADMIRAL ACKBAR	SNAP	1	episode-7
+ADMIRAL STATURA	SNAP	1	episode-7
+C-3PO	SNAP	1	episode-7
+FINN	SNAP	1	episode-7
+HAN	SNAP	1	episode-7
+JESS	SNAP	1	episode-7
+LEIA	SNAP	1	episode-7
+POE	SNAP	2	episode-7
+GENERAL HUX	SNOKE	3	episode-7
+KYLO REN	SNOKE	2	episode-7
+BB-8	UNKAR PLUTT	1	episode-7
+REY	UNKAR PLUTT	2	episode-7
+ELLO ASTY	YOLO ZIFF	1	episode-7
+JESS	YOLO ZIFF	1	episode-7
+NIV LEK	YOLO ZIFF	1	episode-7
+POE	YOLO ZIFF	1	episode-7
